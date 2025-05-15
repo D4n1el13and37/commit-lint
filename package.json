@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "lint:format": "prettier --log-level warn --write \"./**/*.{js,jsx,ts,tsx,css,scss,md,json}\" ",
     "preview": "vite preview",
+    "changelog": "standard-changelog -p angular -i CHANGELOG.md -s",
     "prepare": "husky"
   },
   "dependencies": {
@@ -27,6 +28,7 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.15.0",
     "husky": "^9.1.7",
+    "standard-changelog": "^6.0.0",
     "typescript": "~5.7.2",
     "typescript-eslint": "^8.24.1",
     "vite": "^6.2.0",
