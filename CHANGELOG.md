@@ -4,10 +4,9 @@ All notable changes to this project will be documented in this file. See [standa
 
 ### [0.0.3](https://github.com/D4n1el13and37/commit-lint/compare/v0.0.2...v0.0.3) (2025-05-16)
 
-
 ### 🚀 Features
 
-* add button ([087613d](https://github.com/D4n1el13and37/commit-lint/commit/087613d0875b7b272c5eb315e0084cf72268f7d8))
+- add button ([087613d](https://github.com/D4n1el13and37/commit-lint/commit/087613d0875b7b272c5eb315e0084cf72268f7d8))
 
 ### [0.0.2](https://github.com/D4n1el13and37/commit-lint/compare/v0.0.1...v0.0.2) (2025-05-15)
 
