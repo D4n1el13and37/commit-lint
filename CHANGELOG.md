@@ -2,6 +2,24 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.4](https://github.com/D4n1el13and37/commit-lint/compare/v0.0.2...v0.0.4) (2025-05-16)
+
+
+### 🚀 Features
+
+* add button ([087613d](https://github.com/D4n1el13and37/commit-lint/commit/087613d0875b7b272c5eb315e0084cf72268f7d8))
+
+
+### 🐛 Bug Fixes
+
+* changelog ([45bb9b6](https://github.com/D4n1el13and37/commit-lint/commit/45bb9b687832cc11553c55576777af50b597f011))
+
+### [0.0.3](https://github.com/D4n1el13and37/commit-lint/compare/v0.0.2...v0.0.3) (2025-05-16)
+
+### 🚀 Features
+
+- add button ([087613d](https://github.com/D4n1el13and37/commit-lint/commit/087613d0875b7b272c5eb315e0084cf72268f7d8))
+
 ### [0.0.2](https://github.com/D4n1el13and37/commit-lint/compare/v0.0.1...v0.0.2) (2025-05-15)
 
 ### 0.0.1 (2025-05-15)
